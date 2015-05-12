@@ -1,0 +1,8 @@
+{
+	"name": "add-promocodes",
+	"main": "addcodes.js",
+	"dependencies": {
+		"mongoose": "latest",
+    	"shortid": "latest"
+	}
+}
